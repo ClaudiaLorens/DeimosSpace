@@ -1,0 +1,22 @@
+/**General-------------------------**/
+html {
+    box-sizing: border-box;
+    width: 100%;
+  }
+  
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-family: 'Concert One', cursive !important;
+    padding-bottom: 20px;
+}
+
+i {
+    padding: 12px;
+}

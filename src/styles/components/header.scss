@@ -1,0 +1,17 @@
+/**Header-------------------------**/
+.navbar-default {
+    background-color: $blue !important;
+  }
+  
+  .navbar-default .navbar-nav li a {
+    text-decoration: none !important;
+    color: $snow_white !important;
+  }
+  
+  .navbar-default .navbar-nav li a:hover, a:focus {
+    background-color: $light_blue !important;
+  }
+  
+  .active {
+    background-color: $light_blue !important;
+  }

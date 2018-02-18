@@ -1,0 +1,16 @@
+/**Posts Page-------------------------**/
+#newPost {
+    margin-bottom: 10px;
+    background-color: $blue;
+    color: $snow_white;
+}
+
+#postsTable {
+    .react-bs-table table {
+        td:nth-child(2n), th:nth-child(2n) {
+            overflow: hidden !important;
+            width: 100ch !important;
+        }
+    }
+}
+

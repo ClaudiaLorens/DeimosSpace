@@ -1,0 +1,22 @@
+/**Comments Page-------------------------**/
+#newComment {
+    background-color: $orange;
+    color: $snow_white;
+    margin-bottom: 10px;
+}
+
+#commentTable {
+    .react-bs-table table {
+        td:nth-child(4n), th:nth-child(4n) {
+            width: 230px;
+        }
+    }
+}
+
+#commentTable {
+    .react-bs-table table {
+        td:nth-child(3n), th:nth-child(3n) {
+            width: 550px;
+        }
+    }
+}

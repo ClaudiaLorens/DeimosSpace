@@ -1,0 +1,24 @@
+/**Components common styles-------------------------**/
+#editButton {
+    background-color: $green;
+    color: $snow_white;
+}
+
+#removeButton, .closeButton {
+    background-color: $red !important;
+    color: $snow_white !important;
+}
+
+.closeButton {
+    font-size: 10px !important;
+    padding: 2px !important;
+    margin-bottom: 10px !important;
+}
+
+.react-bs-table .react-bs-container-footer>table>thead>tr>th, .react-bs-table .react-bs-container-header>table>thead>tr>th {
+    text-align: center !important;
+}
+
+.bottom-space {
+    margin-bottom: 10%;
+}
